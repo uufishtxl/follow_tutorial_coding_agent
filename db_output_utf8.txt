@@ -1,0 +1,20 @@
+--- Available Threads ---
+Thread ID: 1 (Checkpoints: 14)
+
+--- Inspecting Thread: 1 ---
+Latest Checkpoint ID: 1f0d1e6c-9aa8-6a0f-800c-555eeff1afc4
+Total Messages: 10
+
+Message History:
+[0] HumanMessage: Hello, I am John
+[1] AIMessage: Hello John! Nice to meet you. How can I help you today?
+[2] HumanMessage: Did I already introduce myself?
+[3] AIMessage: Yes, you did! You introduced yourself as John at the beginning of our conversation. Is there anythin...
+[4] HumanMessage: Did I already introduce myself?
+[5] AIMessage: Yes, you did introduce yourself. At the very beginning of our conversation, you said "Hello, I am Jo...
+[6] HumanMessage: How's the weather in New York?
+[7] AIMessage: I don't have access to real-time weather information, but I can help you find the current weather in...
+[8] ToolMessage: ["This is a placeholder response"]
+    Tool Call ID: call_00_vQIYCI7K7oQJQHr12D4iXIT9
+    Artifact: None
+[9] AIMessage: I tried to search for the current weather in New York, but I'm having trouble accessing real-time in...
