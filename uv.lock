@@ -564,6 +564,7 @@ dependencies = [
     { name = "langgraph" },
     { name = "langgraph-checkpoint-sqlite" },
     { name = "python-dotenv" },
+    { name = "sqlalchemy" },
 ]
 
 [package.metadata]
@@ -576,6 +577,7 @@ requires-dist = [
     { name = "langgraph", specifier = ">=1.0.4" },
     { name = "langgraph-checkpoint-sqlite", specifier = ">=3.0.0" },
     { name = "python-dotenv", specifier = ">=1.2.1" },
+    { name = "sqlalchemy", specifier = ">=2.0.44" },
 ]
 
 [[package]]
